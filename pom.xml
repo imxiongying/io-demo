@@ -6,7 +6,7 @@
   <artifactId>io-demo</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>io-demo1</module>
+    <module>bio-demo</module>
   </modules>
   <packaging>pom</packaging>
 
